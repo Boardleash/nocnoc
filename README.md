@@ -11,9 +11,9 @@ The user information pulled consists of the following:
 
 >	- *User executing the script*
 >	- *Users that already exist on the host machine*
->	*- Currently logged in users*
->	*- Users who have accessed the host machine*
->	*- Users who attempted to access the host machine*
+>	- *Currently logged in users*
+>	- *Users who have accessed the host machine*
+>	- *Users who attempted to access the host machine*
 
 This script does not necessarily NEED to be ran with elevated privileges (root).  That said, if the script is ran without elevated privileges, you will not be able to retrieve information of the users who attempted to access the host machine.  If that information is desired, you should run this script with elevated privileges.
 
