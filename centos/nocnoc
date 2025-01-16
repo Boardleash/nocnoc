@@ -34,7 +34,6 @@
 #.....::::::.-%@%##*****#@@@@@@@@@@@@@@@@@@@@#-
 #......::.:*@@@@%%#****###%@@@@@@@@@@@@%%%@@@%**-
 #..:-=*#%@@@@@@@@@%%%##%%%%%##%@@@@@@@@@@@@@@@###*+==-::
-#
 # A simple script that pulls user information on a machine.
 # It is recommended to run this with escalated privileges (sudo).
 # Tested on CentOS Stream 9 Workstation and CentOS Stream 9 Server (with GUI) VM images.
