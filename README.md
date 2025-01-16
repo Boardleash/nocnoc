@@ -50,9 +50,9 @@ The Ubuntu version of the script should also work with similar Ubuntu flavors an
 >	In the directory that you have just changed into, type the following:
 >	> `git clone https://github.com/Boardleash/nocnoc/
 
->	This should successfully clone the entire **harvest** repository into the directory that you have chosen and you are now able to access the contents locally on your terminal
+>	This should successfully clone the entire **nocnoc** repository into the directory that you have chosen and you are now able to access the contents locally on your terminal
 
->	Navigate to where the "harvest" script is located.  By default this should be in `/PATH/TO/nocnoc/centos/` OR `/PATH/TO/nocnoc/ubuntu/,` but if this script was moved, then navigate to that appropriate directory.
+>	Navigate to where the "nocnoc" script is located.  By default this should be in `/PATH/TO/nocnoc/centos/` OR `/PATH/TO/nocnoc/ubuntu/,` but if this script was moved, then navigate to that appropriate directory.
 
 >	Change file permissions for the script by typing the following:
 >		*chmod 755 nocnoc*
