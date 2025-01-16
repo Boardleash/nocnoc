@@ -34,7 +34,6 @@
 #.....::::::.-%@%##*****#@@@@@@@@@@@@@@@@@@@@#-
 #......::.:*@@@@%%#****###%@@@@@@@@@@@@%%%@@@%**-
 #..:-=*#%@@@@@@@@@%%%##%%%%%##%@@@@@@@@@@@@@@@###*+==-::
-#
 # A simple script that pulls user information on a machine.
 # It is recommended to run this with escalated privileges (sudo).
 # Tested on Ubuntu LTS 24.04 Desktop.
