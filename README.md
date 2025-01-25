@@ -39,6 +39,7 @@ The Ubuntu version of the script should also work with similar Ubuntu flavors an
 >	After the download is complete, go to where you downloaded the file.  The file will likely have been downloaded as a text file (.txt extension).  Rename the file to "**nocnoc**" (don't inlcude the .txt extension).
 
 >	Right click the file and click on "**Properties**", then click on the "**Permissions**" tab.  Check the "**Allow executing file as program**" box.
+>		If this is already checked off, then no need to do anything.
 
 >	After doing the above, you can right click on the file and select the "**Run as a program**" option.  The script will open a terminal session and execute.
 
@@ -63,8 +64,6 @@ The Ubuntu version of the script should also work with similar Ubuntu flavors an
 >	The script will proceed.  It may take a minute, but once complete, you will be asked if you have gotten all that you need.  You can respond appropriately.
 ## ***NOTES***
 
->	- Be mindful of which OS you are using in order to execute the correct script
->	
 >	- Acceptable forms of "yes" in this script are: 
 >		- *Yes*
 >		- *yes*
